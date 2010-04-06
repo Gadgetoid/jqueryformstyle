@@ -1,0 +1,6 @@
+#summary List of changes to jQuery formStyle
+#labels Featured
+
+= Alpha 0.1.1 =
+
+* Changed class parameter to cssclass to prevent parsing errors in Safari and possibly other browsers
