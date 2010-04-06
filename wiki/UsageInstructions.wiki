@@ -1,5 +1,5 @@
+#summary jQuery formStyle usage instructions
 #labels Featured
-#jQuery formStyle usage instructions
 
 = Introduction =
 
