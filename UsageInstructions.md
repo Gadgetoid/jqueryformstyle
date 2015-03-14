@@ -1,0 +1,7 @@
+# Introduction #
+
+jQuery formStyle is a logical refactoring of the original javascript formStyle script into a jQuery plugin. Currently this early version of the plugin supports a minimal set of features and depends on a specific HTML markup structure. This will eventually be changed to facilitate a wide variety of scenarios.
+
+# Usage #
+
+Download the latest version of the formStyle package, unarchive and use your noggin to figure out what to do with the included HTML/CSS and jQuery. Full instructions for usage will come when the plugin is reasonably full featured, flexible and out of Alpha development.
